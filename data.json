@@ -1,6 +1,9 @@
 {
     "name": "GREEN ALIEN",
     "symbol": "GRA",
-    "description": "GREEN ALIEN COOL.",
-    "image": "https://raw.githubusercontent.com/rasofficials/crypto/refs/heads/main/logo.png"
+    "description": "COOL GREEN ALIEN.",
+    "image": "https://raw.githubusercontent.com/rasofficials/crypto/refs/heads/main/logo.png",
+    "extensions": {
+        "twitter": "https://x.com/GreenAlienCOIN",
+    }
 }
